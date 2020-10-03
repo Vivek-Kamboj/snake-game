@@ -147,6 +147,8 @@ int main()
 	
 	cout<<"w:UP    a:LEFT    d:right    s:DOWN     x:QUIT"<<endl<<"Press any key to play";
 	
+	cout << "There you go!";
+	
 	if(_getch())
 	{
 		
